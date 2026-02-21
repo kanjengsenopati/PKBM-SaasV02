@@ -1,0 +1,5 @@
+{
+  "name": "EduSaaS PKBM V02",
+  "description": "A comprehensive SaaS Learning Management System designed for PKBM (Pusat Kegiatan Belajar Masyarakat), featuring robust database integration with NeonDB and Prisma for scalable, edge-ready performance.",
+  "requestFramePermissions": []
+}

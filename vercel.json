@@ -1,0 +1,7 @@
+{
+  "rewrites": [
+    { "source": "/api/rpc", "destination": "/api/rpc.ts" },
+    { "source": "/api/migrate", "destination": "/api/migrate.ts" },
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}
